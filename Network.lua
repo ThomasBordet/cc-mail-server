@@ -1,1 +1,1 @@
-
+print("Serveur mail démarré !")
